@@ -14,3 +14,4 @@ if Revers==Name:
     print("Palindrome")
 else:
     print("It Is Not Plindrome")
+    
